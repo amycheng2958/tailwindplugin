@@ -1,0 +1,17 @@
+{
+  "name": "@amycheng1305/tailwind-col-count",
+  "version": "1.0.0",
+  "description": "A Tailwind CSS plugin to add the column-count CSS property to Tailwind CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amycheng",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
